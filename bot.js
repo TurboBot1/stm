@@ -32,7 +32,7 @@ client.on('ready', () => {
 
 
 const adminprefix = "!";
-const developers = ['518468852976451614'];
+const developers = ['NTIwMDMzOTU1MTQ0MjY5ODM1.XNcFHA.rsq7-X1ftLea69ssPg_QF3llEmU'];
 
 console.log("FOIL");
 
